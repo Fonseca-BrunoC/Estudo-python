@@ -1,2 +1,2 @@
 # Desafios - Python
-Programas feitos para estudo do em python
+Programas feitos para estudo de python
